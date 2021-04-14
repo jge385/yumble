@@ -11,7 +11,6 @@ import axios from 'axios';
 import Button from 'react-bootstrap/esm/Button';
 
 /**
- * @param  {*}
  * @return {*}
  * 
  * Screen for host to set game preferences including: 

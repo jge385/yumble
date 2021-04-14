@@ -8,7 +8,6 @@ import Button from 'react-bootstrap/Button';
 import Container from 'react-bootstrap/Container';
 
 /**
- * @param  {*}
  * @return {*}
  * 
  * The landing page of Yumble. The user will be presented the option to create a

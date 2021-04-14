@@ -9,7 +9,6 @@ import '../Common/Help.css';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 /**
- * @param  {*}
  * @return {*}
  * 
  * Sreen for when a host user creates a new group.

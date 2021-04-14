@@ -20,6 +20,10 @@ const CountDown = (props) => {
   const [data] = useState(props.location.state);
   const [redirect, setRedirect] = useState(false);
 
+  /**
+   * 
+   * @param {*} data 
+   */
   function cb(data) {
     setRedirect(true);
     socketContext.setCountdown(data.nextRoundTime/1000);
