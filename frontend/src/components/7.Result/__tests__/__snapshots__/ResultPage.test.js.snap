@@ -148,6 +148,23 @@ Array [
               >
                 See results
               </button>
+              <button
+                className="BigBtn btn btn-info"
+                disabled={false}
+                onClick={[Function]}
+                style={
+                  Object {
+                    "fontSize": "2em",
+                    "marginBottom": "0.1em",
+                    "marginLeft": "0.3em",
+                    "marginTop": "0.1em",
+                  }
+                }
+                type="button"
+              >
+                Restart
+                 
+              </button>
               
             </div>
             <div
